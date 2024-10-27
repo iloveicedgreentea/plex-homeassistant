@@ -1,0 +1,6 @@
+homeassistant
+pytest
+plexauth
+PlexAPI
+plexwebsocket
+pytest-homeassistant-custom-component

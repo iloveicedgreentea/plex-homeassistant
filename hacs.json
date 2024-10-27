@@ -1,0 +1,9 @@
+{
+    "name": "JVC Projectors",
+    "hacs": "1.6.0",
+    "domains": [
+        "media_player",
+        "sensor"
+    ],
+    "homeassistant": "0.118.0"
+}
